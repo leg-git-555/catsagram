@@ -3,7 +3,6 @@
   .page-top {
     display: flex;
     flex-direction: column;
-    justify-content: center;
     align-items: center;
 
     border: 1px solid black;
@@ -14,6 +13,7 @@
         h1 {
             background-color: lightcoral;
             text-align: center;
+            width: 98%;
         }
 
         #img-box {
