@@ -1,0 +1,34 @@
+
+        
+  .page-top {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    border: 1px solid black;
+    gap: 2px;
+    background-color: aqua;
+  }      
+        
+        h1 {
+            background-color: lightcoral;
+            text-align: center;
+        }
+
+        #img-box {
+            background-color: aquamarine;
+            width: 75%;
+            height: fit-content;
+            text-align: center;
+            margin: 0px auto;
+        }
+
+        #makeCat {
+            width: fit-content;
+            padding: 2px;
+        }
+
+        img {
+            width: 100%;
+        }
